@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace HashedPassPreview
 {
-    public partial class Form1 : Form
+    public partial class frmPBKDF2 : Form
     {
-        public Form1()
+        public frmPBKDF2()
         {
             InitializeComponent();
         }
